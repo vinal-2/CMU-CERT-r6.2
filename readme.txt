@@ -1,5 +1,3 @@
-Release 6 Notes
-
 Major Changes
 * Content generated as complete sentences rather than bag-of-words
 * Single topic per document in dataset 1. (Multiple topics per document in dataset 2.)
