@@ -1,0 +1,13 @@
+LDAP folder - 4000 employees employee list of each month, updated per month
+
+device.csv - id, date, user, pc, file_tree
+
+http.csv - id, date, user, pc, url, activity, content
+
+decoy _file.csv - filename, pc
+
+logon.csv - id, date, user, pc, activity(logon/logoff) employee
+
+email.csv - id, date, user, pc, to, cc, bcc, from, activity, size, attachments, content
+
+file.csv - id, date, user, pc, filename, activity, to_removable_media, from_removable_media, content
